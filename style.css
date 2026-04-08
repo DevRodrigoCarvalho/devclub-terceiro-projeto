@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    outline: none;
+}
+body{
+    background-color: #e5eed2;
+    margin: 10px;
+}
+.currency-converter {
+    width: 200px;
+    display: block;
+    margin: 10px auto 0px auto;
+}
+h1{
+    font-weight: 900;
+    font-size: 40px;
+    color: #eb5757bc;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.big-box {
+    width: 375px;
+    background-color: #b8d6df;
+    border-radius: 20px;
+    margin: 0 auto;
+    padding: 40px 24px 23px;
+}
+
+.converter-session {
+    width: 100%;
+    height: 300px;
+    background-color: #d4cf778c;
+    margin-top: 25px;
+    padding: 5px;
+    border-radius: 20px;
+    border: 3px solid #00098a77;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.arrow {
+    height: 60px;
+    margin: 5px;
+}
+label {
+    color: #777777;
+}
+#converter-moeda, #conversor-moeda, #currency-value {
+    width: 100%;
+    height: 35px;
+    font-weight: 700;
+    font-size: 16px;
+    background: #FFFFFF;
+    color: #555555;
+    margin-bottom: 24px;
+    padding-left: 10px;
+    border: 1px solid #BBBBBB;
+    border-radius: 4px;
+    cursor: pointer;
+    /*appearance: none;*/
+}
+.convert {
+    width: 100%;
+    height: 48px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 18px;
+    letter-spacing: 0%;
+    background: #2fd33dce;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.convert:hover {
+    opacity: 0.8;
+}
+.convert:active {
+    opacity: 0.6;
+}
+.money{
+    width: 60px;
+    display: block;
+    margin: auto;
+}
+.moeda-converter, .moeda-convertida {
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    gap: 4px;
+}
+.coin {
+    width: 105px;
+    height: 18px;
+    color: #777777;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.value-to-convert-above, .converted-value-below {
+    width: 122px;
+    height: 18px;
+    color: #555555;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 18px;
+    letter-spacing: 0%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

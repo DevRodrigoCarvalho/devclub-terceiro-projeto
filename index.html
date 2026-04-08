@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="icon" href="./assets/logo-icon-0.png" type="image/png"/>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet"/>
+    <link rel="stylesheet" href="./style.css"/>
+    <title>Currency Converter</title>
+</head>
+<body>
+    <img class="currency-converter" src="./assets/conversor-de-moedas.gif" alt="money"/>
+    <h1><i>Conversor de Moedas</i></h1>
+    <main class="big-box">
+        <label class="box-1">
+            Converter <b>de</b>:
+            <select class="choose-the-currency-above" name="" id="converter-moeda">
+                <option value="real-brasileiro(BRL)">Real Brasileiro(BRL)</option>
+                <option value="dolar-americano(USD)">Dolar Americano(USD)</option>
+                <option value="euro(EUR)">Euro(EUR)</option>
+                <option value="bitcoin(BTC)">Bitcoin(BTC)</option>
+                <option value="franco-suico(CHF)">Franco Suiço(CHF)</option>
+                <option value="libra-esterlina(GBP)">Libra Esterlina(GBP)</option>
+                <option value="iene(JPY)">Iene Japonês(JPY)</option>
+                <option value="peso-argentino(ARS)">Peso Argentino(ARS)</option>
+            </select>
+        </label>
+        <label class="box-2">
+            Conversor <b>para</b>:
+            <select class="choose-currency-below" name="" id="conversor-moeda">
+                <option value="real-brasileiro(BRL)">Real Brasileiro(BRL)</option>
+                <option value="dolar-americano(USD)">Dolar Americano(USD)</option>
+                <option value="euro(EUR)">Euro(EUR)</option>
+                <option value="bitcoin(BTC)">Bitcoin(BTC)</option>
+                <option value="franco-suico(CHF)">Franco Suiço(CHF)</option>
+                <option value="libra-esterlina(GBP)">Libra Esterlina(GBP)</option>
+                <option value="iene(JPY)">Iene Japonês(JPY)</option>
+                <option value="peso-argentino(ARS)">Peso Argentino(ARS)</option>
+            </select>
+        </label>
+        <label class="box-3" for="">
+            Valor:
+            <input id="currency-value" type="number" min="0" placeholder="0,00"/>
+        </label>
+        <button class="convert">Converter</button>
+        <section class="converter-session">
+            <div class="moeda-converter">
+                <img class="money" id="currency-image-change-above" src="./assets/real-brasileiro(BRL).png" alt="moeda-real-brasileiro">
+                <p class="coin" id="currency-name-change-above">Real Brasileiro</p>
+                <p class="value-to-convert-above">R$ 0,00</p>
+            </div>
+            <img class="arrow" src="./assets/arrow.png" alt="seta para baixo">
+            <div class="moeda-convertida">
+                <img class="money" id="currency-image-change-below" src="./assets/dolar-americano(USD).png" alt="moeda-dolar-americano">
+                <p class="coin" id="currency-name-change-below">Dolar Americano</p>
+                <p class="converted-value-below">$ 0,00</p>
+            </div>
+        </section>
+    </main>
+</body>
+    <script src="./script.js"></script>
+</html>
