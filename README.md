@@ -1,7 +1,7 @@
 <div align="center" style="vertical-align: middle; margin: 0; padding: 0;">
   <img height="250" alt="image" src="https://github.com/DevRodrigoCarvalho/img-para-utilizar-no-github/blob/main/logo-red-dragon-sem-fundo.png"/>
   <h1>
-    Terceiro Projeto - DevClub Academy
+    Currency Converter | Conversor de Moedas
   </h1>
 </div>
 
@@ -10,9 +10,14 @@
 </p>
 
 ## <img height="20" alt="image" src="https://github.com/user-attachments/assets/d590403e-d286-4bf8-b2df-baebce0d40c1"/> Sobre o projeto
-Um projeto simples e funcional de conversão de moedas desenvolvido com HTML, CSS e JavaScript puro, com foco em lógica de programação e manipulação do DOM.
+Um projeto simples porem funcional para realizar conversões de moedas desenvolvido com HTML, CSS e JavaScript puro, com foco em lógica de programação e manipulação dinâmica do DOM para atualização em tempo real.
 
-Link do projeto: https://devrodrigocarvalho.github.io/devclub-terceiro-projeto/
+---
+
+## 🔗 Acesse ao projeto
+
+Deploy: https://devrodrigocarvalho.github.io/devclub-terceiro-projeto/
+GitHub: https://github.com/DevRodrigoCarvalho/devclub-terceiro-projeto/
 
 ---
 
