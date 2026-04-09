@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-<img height="300vw" src="assets/conversor-de-moedas.gif" alt="logo_illustration"/>
+<img height="300vw" src="assets/conversor-de-moedas.gif" alt="logo_currency_converter"/>
 </p>
 
 ## <img height="20" alt="image" src="https://github.com/user-attachments/assets/d590403e-d286-4bf8-b2df-baebce0d40c1"/> Sobre o projeto
