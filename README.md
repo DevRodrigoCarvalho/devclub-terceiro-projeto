@@ -6,16 +6,29 @@
 </div>
 
 <p align="center">
-<img height="300vw" src="assets/conversor-de-moedas.gif" alt="logo_currency_converter"/>
+<img height="200vw" src="assets/conversor-de-moedas.gif" alt="logo_currency_converter"/>
 </p>
 
 ## <img height="20" alt="image" src="https://github.com/user-attachments/assets/d590403e-d286-4bf8-b2df-baebce0d40c1"/> Sobre o projeto
-Um projeto simples porem funcional para realizar conversões de moedas desenvolvido com HTML, CSS e JavaScript puro, com foco em lógica de programação e manipulação dinâmica do DOM para atualização em tempo real.
+<p>
+  Um projeto simples, porém funcional, desenvolvido para realizar a conversão de moedas utilizando HTML, CSS e JavaScript puro, com foco em lógica de programação e manipulação dinâmica do DOM para atualização em tempo real.
+</p>
 
 ---
 
-## 🔗 Acesse ao projeto
+## <img width="30" alt="image" src="https://github.com/user-attachments/assets/1a95fe4e-18d1-441b-852b-366af0c20b74"/> Funcionalidades
+<div>
+  <ul>
+    <li>Conversão de moedas em tempo real</li>
+    <li>Seleção dinâmica de moeda de origem e destino</li>
+    <li>Atualização automática dos valores</li>
+    <li>Interface simples e intuitiva para o usuário</li>
+  </ul>
+</div>
 
+---
+
+## <img width="28" alt="image" src="https://github.com/user-attachments/assets/44ee562e-a94d-418a-9c32-45a881244b3d"/> Acesse ao projeto
 Deploy: https://devrodrigocarvalho.github.io/devclub-terceiro-projeto/
 <br/>
 GitHub: https://github.com/DevRodrigoCarvalho/devclub-terceiro-projeto/
@@ -23,7 +36,6 @@ GitHub: https://github.com/DevRodrigoCarvalho/devclub-terceiro-projeto/
 ---
 
 ## <img height="30" alt="image" src="https://github.com/user-attachments/assets/d5c75e84-490d-4ee0-ae82-f3b8a126f143" /> Demonstração
-
 <div>
   <p>Interface intuitiva onde o usuário pode:</p>
   <ul>
@@ -51,15 +63,15 @@ GitHub: https://github.com/DevRodrigoCarvalho/devclub-terceiro-projeto/
 <div>
   <p>O projeto foi desenvolvido com foco em responsividade, garantindo uma boa experiência em:</p>
   <ul>
-    <li><img width="20" alt="image" src="https://github.com/user-attachments/assets/866d24c1-72b9-4470-be3f-7e434eb9345b"/> Desktop</li>
-    <li><img width="20" alt="image" src="https://github.com/user-attachments/assets/5b85d4ff-e219-45d0-b87d-b73f4309d75e"/> Tablet
-    <li><img width="20" alt="image" src="https://github.com/user-attachments/assets/5d0492ea-1a4f-433d-b002-98f23c4d5784"/> Mobile</li>
+    <li><img width="20" alt="image" src="https://github.com/user-attachments/assets/866d24c1-72b9-4470-be3f-7e434eb9345b"/>Desktop</li>
+    <li><img width="20" alt="image" src="https://github.com/user-attachments/assets/5b85d4ff-e219-45d0-b87d-b73f4309d75e"/>Tablet</li>
+    <li><img width="20" alt="image" src="https://github.com/user-attachments/assets/5d0492ea-1a4f-433d-b002-98f23c4d5784"/>Mobile</li>
   </ul>
 </div>
 
 ---
 
-## <img height="23" alt="image" src="https://github.com/user-attachments/assets/98604ea2-caeb-48c9-aab8-779bcd405198"/> Aprendizados
+## <img height="28" alt="image" src="https://github.com/user-attachments/assets/ae06d080-48b2-42b5-9411-900b52334ddc"/> Aprendizados
 <div>
   <p>Durante o desenvolvimento deste projeto, foram aplicados conceitos importantes como:</p>
   <ul>
@@ -69,6 +81,17 @@ GitHub: https://github.com/DevRodrigoCarvalho/devclub-terceiro-projeto/
     <li>Organização de lógica de conversão</li>
     <li>Tratamento de valores numéricos</li>
     <li>Boas práticas de validação</li>
+  </ul>
+</div>
+
+---
+
+## <img height="30" alt="image" src="https://github.com/user-attachments/assets/f1eb8107-2736-4a8f-ab97-93d53ecd7b6d"/> Desafios
+<div>
+  <ul>
+    <li>Garantir a atualização correta dos valores ao trocar as moedas</li>
+    <li>Tratar e validar corretamente os valores inseridos pelo usuário</li>
+    <li>Organizar a lógica de conversão de forma clara e reutilizável</li>
   </ul>
 </div>
 
