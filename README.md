@@ -35,7 +35,7 @@ GitHub: https://github.com/DevRodrigoCarvalho/devclub-terceiro-projeto/
 
 ---
 
-## <img height="30" alt="image" src="https://github.com/user-attachments/assets/d5c75e84-490d-4ee0-ae82-f3b8a126f143" /> Demonstração
+## <img height="30" alt="image" src="https://github.com/user-attachments/assets/d5c75e84-490d-4ee0-ae82-f3b8a126f143"/> Demonstração
 <div>
   <p>Interface intuitiva onde o usuário pode:</p>
   <ul>
