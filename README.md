@@ -61,7 +61,9 @@ GitHub: https://github.com/DevRodrigoCarvalho/devclub-terceiro-projeto/
 
 ## <img height="25" alt="image" src="https://github.com/user-attachments/assets/058ccb82-9777-4d37-a798-735e2f017ee5"/> Responsividade
 <div>
-  <p>O projeto foi desenvolvido com foco em responsividade, garantindo uma boa experiência em:</p>
+  <p>
+    O projeto foi desenvolvido com foco em responsividade, garantindo uma boa experiência em:
+  </p>
   <ul>
     <li><img width="20" alt="image" src="https://github.com/user-attachments/assets/866d24c1-72b9-4470-be3f-7e434eb9345b"/>Desktop</li>
     <li><img width="20" alt="image" src="https://github.com/user-attachments/assets/5b85d4ff-e219-45d0-b87d-b73f4309d75e"/>Tablet</li>
